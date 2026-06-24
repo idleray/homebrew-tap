@@ -3,7 +3,7 @@ class Storeray < Formula
   homepage "https://github.com/idleray/storeray"
   version "1.0.0"
   url "https://github.com/idleray/storeray/releases/download/v#{version}/storeray-v#{version}.zip"
-  sha256 "__SHA256__"
+  sha256 "3b0c94af2f18b1c511889da86931e4f3e3d337f9ca9c3c734d41b665dd56986f"
 
   depends_on "openjdk@17"
 
